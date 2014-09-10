@@ -1,0 +1,21 @@
+{
+  "name": "node-inherit",
+  "version": "0.0.1",
+  "description": "This modules provides class-like inheritance based on the code used by the Microsoft TypeScript compiler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remolueoend/node-inherit.git"
+  },
+  "keywords": [
+    "inheritance"
+  ],
+  "author": "Remo Zumsteg (remolueoend)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/remolueoend/node-inherit/issues"
+  }
+}

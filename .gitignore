@@ -25,6 +25,11 @@ build/Release
 node_modules
 
 # =========================
+# IDE files
+# =========================
+.idea
+
+# =========================
 # Operating System Files
 # =========================
 
@@ -36,7 +41,8 @@ node_modules
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
