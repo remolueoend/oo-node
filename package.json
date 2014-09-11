@@ -20,5 +20,8 @@
   },
   "devDependencies": {
     "jasmine-node": "~1.14.5"
+  },
+  "dependencies": {
+    "node.extend": "~1.1.2"
   }
 }
