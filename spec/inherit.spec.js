@@ -1,4 +1,6 @@
-describe("node-inherit", function(){
+'use strict';
+
+describe("inherit", function(){
     var inherit = require('../lib/oo').inherit,
         BaseClass, SubClass;
 
