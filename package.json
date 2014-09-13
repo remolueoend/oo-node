@@ -19,7 +19,9 @@
     "url": "https://github.com/remolueoend/node-inherit/issues"
   },
   "devDependencies": {
-    "jasmine-node": "~1.14.5"
+    "jasmine-node": "~1.14.5",
+    "grunt": "~0.4.5",
+    "grunt-jasmine-node": "~0.2.1"
   },
   "dependencies": {
     "node.extend": "~1.1.2"

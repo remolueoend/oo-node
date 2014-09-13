@@ -1,7 +1,7 @@
 'use strict';
 
-describe("override", function(){
-    var override = require('../lib/oo').override;
+describe("oo-node.override", function(){
+    var override = require('../lib/oo-node').override;
     var extend = require('node.extend');
 
     var testObj = {
