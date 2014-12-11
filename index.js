@@ -1,1 +1,1 @@
-module.exports = require('./lib/node-inherit');
+module.exports = require('./lib/oo-node');
